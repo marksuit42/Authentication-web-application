@@ -1,0 +1,11 @@
+backend:
+
+npm install express
+
+npm install --save-dev nodemon
+
+npm run dev
+
+npm install --save-dev nodemon
+
+npm install dotenv
